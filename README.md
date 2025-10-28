@@ -1,6 +1,6 @@
 # Universal-and-Transferable-Attacks-on-Pathology-Foundation-Models
 
-*Unofficial exploration of Universal and Transferable Attacks on Pathology Foundation Models.*
+*Unofficial exploration of [Universal and Transferable Attacks on Pathology Foundation Models](https://arxiv.org/abs/2510.16660).*
 
 ---
 
